@@ -1,0 +1,6 @@
+data/*.wav
+data/MNIST/
+*.pt
+*.pkl
+__pycache__/
+.ipynb_checkpoints/

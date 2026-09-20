@@ -1,0 +1,7 @@
+librosa==0.11.0
+soundfile
+torch
+numpy
+scikit-learn
+matplotlib
+seaborn
