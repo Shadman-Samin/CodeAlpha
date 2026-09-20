@@ -1,5 +1,5 @@
 {
-  "test_accuracy": 0.9895,
+  "test_accuracy": 0.9887,
   "epochs": 3,
   "device": "cuda"
 }

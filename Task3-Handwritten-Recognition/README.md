@@ -13,7 +13,7 @@ Compatible with EMNIST-letters (same loader, change `datasets.EMNIST(split='lett
 SmallCNN: Conv(1->32) -> Pool -> Conv(32->64) -> Pool -> FC(3136->128) -> Dropout -> FC(128->10). Adam 1e-3.
 
 ## Results (verified on this PC, CUDA)
-- 3 epochs: train acc 0.983, **test acc 0.9895**
+- 3 epochs: train acc 0.984, **test acc 0.9887**
 - Artifacts: `assets/cnn_mnist.pt`, `assets/metrics.json`, `assets/samples.png`
 
 ## Run
